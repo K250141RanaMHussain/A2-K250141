@@ -72,6 +72,9 @@ It ensures a clean and maintainable architecture.
 ###  Implementation
 <img width="396" height="72" alt="image" src="https://github.com/user-attachments/assets/e970491c-73cc-4665-8b5c-9cf6c0fd0787" />
 
+<img width="353" height="69" alt="image" src="https://github.com/user-attachments/assets/8015a5aa-3bb8-4cf5-9d5d-c1379154710a" />
+
+
 ###  Reasoning
 Operator overloading improves readability by allowing natural comparisons:
 
@@ -80,6 +83,10 @@ Users compared by identity (email)
 Listings combined logically
 
 ## 3.5 Friend Function
+###  Implementation
+<img width="444" height="26" alt="image" src="https://github.com/user-attachments/assets/0ebe889a-8be0-400e-8b47-db81e32c7641" />
+
+
 ###  Reasoning
 Friend functions are used when direct access to private data is needed for comparison without exposing it publicly
 
@@ -91,11 +98,17 @@ Users can search vehicles by brand or model.
 
 ## Messaging System
 Buyers and sellers can communicate via messages.
+
+###  Implementation
+<img width="359" height="63" alt="image" src="https://github.com/user-attachments/assets/eb2435be-f3a5-4710-8c60-86d40afe961a" />
+
 ###  Screenshot
 ![Message Function](screenshots/messaging.PNG)
+
 ## Listings & Marketplace
 Marketplace manages listings, approvals, and filtering.
-
+###  Implementation
+<img width="300" height="24" alt="image" src="https://github.com/user-attachments/assets/2e597bae-1331-4020-8141-db343540ac05" />
 
 ## Reviews System
 Buyers can leave ratings and comments for sellers.
