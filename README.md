@@ -70,6 +70,7 @@ It ensures a clean and maintainable architecture.
 
 ## 3.4 Operator Overloading
 ###  Implementation
+<img width="396" height="72" alt="image" src="https://github.com/user-attachments/assets/e970491c-73cc-4665-8b5c-9cf6c0fd0787" />
 
 ###  Reasoning
 Operator overloading improves readability by allowing natural comparisons:
