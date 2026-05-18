@@ -95,6 +95,10 @@ Buyers and sellers can communicate via messages.
 ## Listings & Marketplace
 Marketplace manages listings, approvals, and filtering.
 
+
+## Reviews System
+Buyers can leave ratings and comments for sellers.
+
 ## UML Class Diagram
 Shows relationships between all classes including:
 
@@ -134,5 +138,3 @@ Friend Functions
 
 It simulates a real-world marketplace system with modular and extensible design.
 
-## Reviews System
-Buyers can leave ratings and comments for sellers.
