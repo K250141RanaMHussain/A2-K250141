@@ -20,7 +20,7 @@ It simulates a real-world system where:
 The goal is to apply **advanced OOP concepts in a structured real-world system design**.
 
 ###  Screenshot
-![Marketplace Output](screenshots/output.png)
+![Marketplace Output](screenshots/output.PNG)
 
 # 2. Project Structure
 
@@ -55,7 +55,7 @@ User → shows role-specific details
 This makes the system flexible and extensible.
 
 ###  Screenshot
-![Inheritance & Role Hierarchy](screenshots/polymorphic.png)
+![Inheritance & Role Hierarchy](screenshots/polymorphic.PNG)
 
 ## 3.3 Abstraction
 ###  Implementation
