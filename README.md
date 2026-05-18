@@ -125,6 +125,7 @@ Maintainable codebase
 
 # 6. How to Run
 g++ src/*.cpp -I include -o marketplace
+
 ./marketplace.exe
 
 # 7. Conclusion
