@@ -86,12 +86,12 @@ Friend functions are used when direct access to private data is needed for compa
 ## Search Functionality
 Users can search vehicles by brand or model.
 ###  Screenshot
-![Search Function](screenshots/searching.png)
+![Search Function](screenshots/searching.PNG)
 
 ## Messaging System
 Buyers and sellers can communicate via messages.
 ###  Screenshot
-![Message Function](screenshots/messaging.png)
+![Message Function](screenshots/messaging.PNG)
 ## Listings & Marketplace
 Marketplace manages listings, approvals, and filtering.
 
